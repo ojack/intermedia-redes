@@ -1,6 +1,6 @@
-# INTRO A NETWORKING
+## Intro a Networking
 
-## LINEA DE COMANDOS
+### Linea de comandos
 Interfaz textual que envía comandos al sistema operador del computador. Permite usar un computador "headless": sin un display y sin interfaz gráfica, o desde otro lugar.
 
 Ejemplos:
@@ -9,35 +9,41 @@ Ejemplos:
 * MS-DOS
 
 Un comando generalmente tiene la estructura de:
+```
 $ <comando> <parámetros>
-
-## PING
+```
+### ping
 Un "packet" es un pedazo muy pequeño de información. Se puede usar el comando 'ping' para probar la conectividad de una red. El comando envia un packet a otro lugar, y mide el tiempo que se demora en devolver.
-
+```
 $ ping www.google.com
-
-## IP
+```
+### IP
 Cada dispositivo en la red tiene una dirección, asignado por el router (en una red local), o por DNS (red global).
 
 Para encontrar el IP en la red local:
 Linux/OSX:
+```
 $ ifconfig
-
+```
 Windows:
+```
 $ ipconfig  
-
+```
 la informacion despues de "inet" es el IPv4. e.g. 192.168.0.8
 Se puede usar esa informacion para enviar un packet en la red local:
+```
 $ ping <IPv4>
+```
 e.g.
+```
 $ ping 192.168.0.8
-
+```
 Cualquier computador puede ser un servidor (lo que está escuchando para conexiones), y puede ser un cliente (lo que inicia una conexión)
 
-## PORTS
+### Ports
 El computador puede tener various procesos a la vez. El "port" es el numero entre 1 y 65535 que se usa para diferenciar entre procesos.
 
-## PROTOCOLOS - TCP y UDP
+### Protocolos - TCP y UDP
 Toda la información enviado por red usa unos protocolos que se llama TCP y UDP.
 UDP - video, audio, algunos juegos
 TCP - sitios web, archivos, correo, todo lo demas
@@ -67,7 +73,7 @@ e.g.
 ```
 $ nc 192.168.0.8
 ```
-## PROTOCOLOS
+### Protocolos
 Varios protocolos usan TCP como base para intercambiar información:
 * HTTP - browse web pages
 * HTTPS - browse web pages with encryption
@@ -78,7 +84,7 @@ Varios protocolos usan TCP como base para intercambiar información:
 * SSH - remote shell over an encrypted connection
 * SSL - low-level secure data transfer (used by HTTPS)
 
-## HTTP
+### HTTP
 Otro protocolo. HTTP (Hypertext Transfer Protocol) es como comunican navegadores y servidores web.
 Para recibir información de un sitio web:
 
@@ -91,7 +97,7 @@ Host: google.com
 ```
 Oprima 'enter' dos veces despues de "Host: google.com"
 
-## Inspeccionando Trafico de red
+### Inspeccionando trafico de la red
 Leer todo el trafico en una red
 ```
 $ sudo tcpdump -X
