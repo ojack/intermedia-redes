@@ -1,9 +1,9 @@
 ### Intermedia - Redes 2017
-#### Pontificia Universidad Javeriana
-#### Facultad de Artes – Departamento de Artes Visuales
+Pontificia Universidad Javeriana  
+Facultad de Artes – Departamento de Artes Visuales  
 
-#### Olivia Jack
-#### rhizomaticode@gmail.com
+Olivia Jack  
+rhizomaticode@gmail.com  
 
 ## Descripción
 
@@ -33,7 +33,7 @@ Redes distribuidos, conexiones peer-to-peer
 Inteligencia artificial, redes neuronales  
 Wetware y relaciones interspecies  
 
-## CRITERIOS DE EVALUACIÓN
+## Criterios de Evaluación
 
 Asistencia y participación: 20%
 
@@ -41,7 +41,7 @@ Entregas: 40%
 
 Proyecto Final: 40%
 
-## BIBLIOGRAFÍA
+## Bibliografía
 
 GALLOWAY, ALEXANDER. Protocol: How control exists after decentralization  
 MANOVICH, LEV. La base de datos como forma simbólica  
