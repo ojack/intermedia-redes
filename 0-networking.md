@@ -108,3 +108,7 @@ Mostrar la ruta de un packet para llegar a su destino:
 $ traceroute www.google.com
 $ traceroute www.javeriana.edu.co
 ```
+### Mas información
+Invisible Infrastructures - The Exciting Life of Internet Packet https://labs.rs/en/packets/  
+Cyberwizard Institute - networking https://github.com/cyberwizardinstitute/workshops/blob/master/networks.markdown  
+Julian Oliver - Transparency Grenade https://transparencygrenade.com/
