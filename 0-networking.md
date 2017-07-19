@@ -1,4 +1,5 @@
 ## Intro a Networking
+(basado en https://github.com/cyberwizardinstitute/workshops/blob/master/networks.markdown)
 
 ### Linea de comandos
 Interfaz textual que envía comandos al sistema operador del computador. Permite usar un computador "headless": sin un display y sin interfaz gráfica, o desde otro lugar.
@@ -111,5 +112,6 @@ $ traceroute www.javeriana.edu.co
 ### Mas información
 Invisible Infrastructures - The Exciting Life of Internet Packet https://labs.rs/en/packets/  
 Cyberwizard Institute - networking https://github.com/cyberwizardinstitute/workshops/blob/master/networks.markdown  
+Submarine Cable Map - https://www.submarinecablemap.com/
 Julian Oliver - Transparency Grenade https://transparencygrenade.com/  
 Micha Cardenas - Local Autonomy Networks https://faculty.washington.edu/michamc/autonets/  
