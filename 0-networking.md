@@ -112,6 +112,6 @@ $ traceroute www.javeriana.edu.co
 ### Mas información
 Invisible Infrastructures - The Exciting Life of Internet Packet https://labs.rs/en/packets/  
 Cyberwizard Institute - networking https://github.com/cyberwizardinstitute/workshops/blob/master/networks.markdown  
-Submarine Cable Map - https://www.submarinecablemap.com/
+Submarine Cable Map - https://www.submarinecablemap.com/  
 Julian Oliver - Transparency Grenade https://transparencygrenade.com/  
 Micha Cardenas - Local Autonomy Networks https://faculty.washington.edu/michamc/autonets/  
