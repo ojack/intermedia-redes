@@ -1,8 +1,8 @@
 ## Intermedia-redes
 ## ENTREGA I: net.art
 
-Fecha de entrega: 28 de Agosto (lunes), 2017
-Modo de entrega:  Subir en linea en https://glitch.com/, y enviar el enlace a rhizomaticode@gmail.com.
+**Strong** __Fecha de entrega:__ 28 de Agosto (lunes), 2017   
+**Strong** __Modo de entrega:__  Subir el proyecto completa a https://glitch.com/, y enviar el enlace a rhizomaticode@gmail.com.
 
 Realiza uno (1) de los siguientes ejercicios:  
 
