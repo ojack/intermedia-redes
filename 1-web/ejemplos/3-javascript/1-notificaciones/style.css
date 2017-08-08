@@ -1,0 +1,13 @@
+body {
+  background-color: red;
+  color: yellow;
+  font-family: monospace;
+}
+
+h1 {
+  background-color: #f39485;
+}
+
+h1:hover {
+  background-color: green;
+}

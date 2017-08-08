@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+  color: #9ff;
+  font-family: monospace;
+}
+
+#galaxy {
+  background-color: #f39485;
+  font-size: 100px;
+}

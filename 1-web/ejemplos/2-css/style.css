@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: monospace;
+}
+
+h1 {
+  background-color: #ff3366;
+  font-size: 30px;
+}
+
+/* Estilo cuando el mouse pasa encima de un elemento */
+h1:hover {
+  background-color: green;
+  /*font-size: 60px;*/
+}
+
+#posicionamiento{
+  /*position: absolute;*/
+  position: fixed;
+  top: 300px;
+  left: 500px;
+  background-color: white;
+  color: black;
+}
