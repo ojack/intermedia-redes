@@ -6,7 +6,7 @@ __Modo de entrega:__  Subir el proyecto completa a https://glitch.com/, y enviar
 
 Realiza uno (1) de los siguientes ejercicios:  
 
-* Crear una serie de páginas html usando sólo texto. Usa color, tamaño, posicionamiento, movimiento, links y/o interactividad para comunicar información y emoción.   
+* Crear una serie de páginas html usando solo elementos de texto. Caracteristicas como el color, tamaño, posicionamiento, movimiento, links y/o interactividad deben ser utilizados par comunicar información y emoción.   
 * Crear una serie de páginas usando sólo imágenes (jpg, png, gif) encontrado en el internet. Usa remezcla, mashup, e interactividad.
 * Crear un sitio que apropia de un interfaz oficial o formal.
 
