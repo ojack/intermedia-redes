@@ -15,12 +15,14 @@ Alexei Shulgin - Form Art http://archive.rhizome.org/artbase/48528/index1.html
 I/O/D - The Web Stalker http://v2.nl/archive/works/the-web-stalker  
 
 #### html
-htmldog - http://www.htmldog.com/guides/html/  
-elementos -  https://developer.mozilla.org/es/docs/Web/HTML/Elemento
+htmldog - http://www.htmldog.com/guides/html/    
+elementos -  https://developer.mozilla.org/es/docs/Web/HTML/Elemento  
+code pen - 
 
 #### css
-tutorial - http://www.htmldog.com/guides/css/
-referencia - https://www.w3schools.com/cssref/
+tutorial - http://www.htmldog.com/guides/css/    
+referencia - https://www.w3schools.com/cssref/  
+animaciones - https://www.w3schools.com/css/css3_animations.asp  
 
 #### javascript
 p5 - https://p5js.org/es/
