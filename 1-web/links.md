@@ -17,7 +17,7 @@ I/O/D - The Web Stalker http://v2.nl/archive/works/the-web-stalker
 #### html
 htmldog - http://www.htmldog.com/guides/html/    
 elementos -  https://developer.mozilla.org/es/docs/Web/HTML/Elemento  
-code pen - 
+code pen - https://codepen.io/  
 
 #### css
 tutorial - http://www.htmldog.com/guides/css/    
@@ -25,5 +25,5 @@ referencia - https://www.w3schools.com/cssref/
 animaciones - https://www.w3schools.com/css/css3_animations.asp  
 
 #### javascript
-p5 - https://p5js.org/es/
+p5 - https://p5js.org/es/   
 eloquent javascript - http://hectorip.github.io/Eloquent-JavaScript-ES-online/
